@@ -4,12 +4,7 @@
 **                                             BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
 **                                            NESNEYE DAYALI PROGRAMLAMA DERSİ
 **                                                2020-2021 BAHAR DÖNEMİ
-**
-**                                           ÖDEV NUMARASI...........: PROJE
-**                                           ÖĞRENCİ ADI.............: İLAYDA YILMAZ
-**                                           ÖĞRENCİ NUMARASI........: B201210057
-**                                           DERSİ ALDIĞI GRUP.......: 1 C GRUBU
-**
+**                                                     İLAYDA YILMAZ
 ****************************************************************************************************************************************************************************/
 using System;
 using System.Collections.Generic;
