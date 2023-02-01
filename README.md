@@ -1,4 +1,4 @@
-# meyve_oyunu
+# MEYVE OYUNU
 Oyunda portakal, Mandalina, Greyfurt gibi sıkılabilen(narenciye sıkacağı kullanılan)
 meyveler, Elma, Armut ve Çilek gibi katı meyve sıkacağından geçirilen meyveler 
 olmalıdır.</p>
